@@ -1,0 +1,118 @@
+.containers{
+    padding: 0 12rem 0;
+}
+.container-double{
+    padding: 0 19rem;
+}
+.text-red{
+    color: #FA4445;
+}
+.text-gray{
+    color: #838383;
+}
+.text-orange{
+    color: #FD864A;
+}
+.bg-white{
+    background-image: linear-gradient(transparent, white);
+    padding: 1px 24px 24px;
+    border-radius: 40px;
+    box-shadow: 0px 4px 5px 0 rgba(65, 65, 65, 0.5);
+}
+.bg-white-vendor{
+    background: white;
+    padding: 1px 24px 24px;
+    border-radius: 40px;
+    box-shadow: 0px 4px 5px 0 rgba(65, 65, 65, 0.5);
+}
+.bg-image{
+    background-image: url("./../images/Background_Asset_2_Top_.png") !important;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: top;
+}
+.bg-image-vendor{
+    background-image: url("./../images/Background_Asset_1_.png") !important;
+    background-repeat: repeat-y;
+    background-position: right;
+    /* background-position-y: top; */
+}
+.img-size{
+    width: 18rem;
+}
+.carousel-control{
+    background: none !important;
+}
+.font-bold{
+    font-weight: 700;
+}
+.thumbnail{
+    border: none;   
+}
+.mt-3{
+    margin-top: 30px;
+}
+.mt-2{
+    margin-top: 10px;
+}
+.-mt-3{
+    margin-top: -8px;
+}
+.font-medium{
+    font-weight: 500;
+    font-size: medium;
+}
+.rounded{
+    border-radius: 30px;
+}
+.mt-5{
+    margin-top: 50px;
+}
+.bg-gray{
+    background-color: #CECECE;
+    border-radius: 60px;
+    padding: 10px 30px;
+    box-shadow: 0px 4px 5px 0 rgba(65, 65, 65, 0.5);
+}
+.bg-white-benefit{
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 10px 30px;
+    box-shadow: 0px 4px 5px 0 rgba(65, 65, 65, 0.5);
+}
+.d-flex{
+    display: flex;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.mx-auto{
+    margin: auto;
+}
+.justify-start{
+    justify-content: start;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-end{
+    justify-content: end;
+}
+.mr-3{
+    margin-right: 20px;
+}
+.bg-gray-transparant{
+    background-color: #F5F5F5;
+    opacity: 87%;
+}
+.img-center{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
